@@ -63,6 +63,7 @@ public class QuizActivity extends ActionBarActivity {
                     public void onClick(View v){
                         //Start Cheat here
                         //continue from Book page 108
+                        //continue later
                     }
                 });
                 mQuestionTextView = (TextView)findViewById(R.id.question_text_view);
